@@ -7,13 +7,13 @@ FinanceEase is a comprehensive finance tracking application built as a backend s
 FinanceEase was developed over a three-week period to provide users with an intuitive interface for managing their finances. The application supports the creation and management of transactions, user authentication, and personalized categorization of income and expenses.
 
 ### Features
-- User Authentication: Secure authorization and authentication using JWT (JSON Web Tokens) for user sessions.
-- Income and Expense Tracking: Users can create, edit, and manage their financial transactions.
-- Preset and Custom Categories:
+- **User Authentication**: Secure authorization and authentication using JWT (JSON Web Tokens) for user sessions.
+- **Income and Expense Tracking**: Users can create, edit, and manage their financial transactions.
+- **Preset and Custom Categories**:
   - Predefined categories available for all users.
-- Ability for users to create custom categories for their income and expenses.
-- Data Management: Secure data handling with MongoDB for storing user and transaction information.
-- File Upload:
+  - Ability for users to create custom categories for their income and expenses.
+- **Data Management**: Secure data handling with MongoDB for storing user and transaction information.
+- **File Upload**:
   - Support for uploading invoices and category icons using Multer and Cloudinary.
 
 
