@@ -31,3 +31,10 @@ The application consists of the following key models:
 - **JWT**: Token-based authentication for secure user sessions.
 - **Multer**: Middleware for handling file uploads.
 - **Cloudinary**: Cloud storage service for managing uploaded files.
+
+  
+### Collaborators:
+
+- [@Sara-AM91](https://github.com/Sara-AM91)
+
+
